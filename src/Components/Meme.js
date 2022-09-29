@@ -18,7 +18,7 @@ const MemeStyle = styled.div`
     border: none;
     cursor: pointer;
     color: white;
-    border-radius: 5px;
+    border-radius: 6px;
     font-weight: 800;
     background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
 }
